@@ -1,9 +1,0 @@
-pyspark
-nltk
-spacy
-transformers
-torch
-pandas
-numpy
-scikit-learn
-streamlit
